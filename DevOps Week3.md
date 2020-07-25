@@ -54,13 +54,16 @@ docker run 할때 포트를 범위로 지정해서 바인딩 시킬수도 있다
 
 ### 가장 먼저 해야 할 일
 * k8s 클러스터 설치: 컨테이너 애플리케이션을 실행하는 노드 == 워커 노드의 집합.
-*
+
+### POD
+* 하나의 Pod는 여러개의 컨테이너를 가진다. (여러 타입의 컨테이너가 들어갈 수 있음)
+* Docker Swarm 은 하나의 Task에는 한 타입의 컨테이너만 들어갈 수 있음
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NTAwNjM1NSwtMjEwMDQzNDk0MywtMT
-kzMTYxNTE0NCw4MzM1MTc3MzAsOTQ4MzcwNTg0LDc2NTgyNzQz
-OCwtMTU3NjMwNDAwOCwxNjk3ODY1OTc1LC00NzUzNzUyOTIsOD
-MxODU2MTIyLC0zMTEzNjc2ODIsLTE0NjU4MTY1NTEsLTExMjQ2
-MzE0NywxMDkxMjQ0MTIwLDc4NTMwNDY5NiwtOTY5ODk4NDA2LD
-YwNDY4NTk1MiwtMTExOTk0MDkxNSwxMDE0MTMyNjQ3LDU2MjYx
-ODE0N119
+eyJoaXN0b3J5IjpbLTEwODEwNTIyNTQsLTIxMDA0MzQ5NDMsLT
+E5MzE2MTUxNDQsODMzNTE3NzMwLDk0ODM3MDU4NCw3NjU4Mjc0
+MzgsLTE1NzYzMDQwMDgsMTY5Nzg2NTk3NSwtNDc1Mzc1MjkyLD
+gzMTg1NjEyMiwtMzExMzY3NjgyLC0xNDY1ODE2NTUxLC0xMTI0
+NjMxNDcsMTA5MTI0NDEyMCw3ODUzMDQ2OTYsLTk2OTg5ODQwNi
+w2MDQ2ODU5NTIsLTExMTk5NDA5MTUsMTAxNDEzMjY0Nyw1NjI2
+MTgxNDddfQ==
 -->
