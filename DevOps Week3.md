@@ -49,12 +49,15 @@ docker run 할때 포트를 범위로 지정해서 바인딩 시킬수도 있다
  * Swarm Kit
  * 도커만 가지고 클러스터를 구축할 수 있다는 매력을 가지고 있음. 다만 Kubernetes 보다는 정교하지 못하다.
 
-#
+## Kubernetes
+* Made by Google, Use to ochestrate docker containers.
+* The best documents is Kubernetes offical spec documentation.
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NzE0NTE1Myw4MzM1MTc3MzAsOTQ4Mz
-cwNTg0LDc2NTgyNzQzOCwtMTU3NjMwNDAwOCwxNjk3ODY1OTc1
-LC00NzUzNzUyOTIsODMxODU2MTIyLC0zMTEzNjc2ODIsLTE0Nj
-U4MTY1NTEsLTExMjQ2MzE0NywxMDkxMjQ0MTIwLDc4NTMwNDY5
-NiwtOTY5ODk4NDA2LDYwNDY4NTk1MiwtMTExOTk0MDkxNSwxMD
-E0MTMyNjQ3LDU2MjYxODE0N119
+eyJoaXN0b3J5IjpbLTE1NjYzNzM1MjcsODMzNTE3NzMwLDk0OD
+M3MDU4NCw3NjU4Mjc0MzgsLTE1NzYzMDQwMDgsMTY5Nzg2NTk3
+NSwtNDc1Mzc1MjkyLDgzMTg1NjEyMiwtMzExMzY3NjgyLC0xND
+Y1ODE2NTUxLC0xMTI0NjMxNDcsMTA5MTI0NDEyMCw3ODUzMDQ2
+OTYsLTk2OTg5ODQwNiw2MDQ2ODU5NTIsLTExMTk5NDA5MTUsMT
+AxNDEzMjY0Nyw1NjI2MTgxNDddfQ==
 -->
