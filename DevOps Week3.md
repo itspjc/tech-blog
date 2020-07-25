@@ -39,11 +39,14 @@ docker run 할때 포트를 범위로 지정해서 바인딩 시킬수도 있다
 * ㅇㅇㅇㅇ
 * aaa
  
- ##
+ ## Docker Swarm
+ * Swarm Cluster: Swarm 을 이용해 구축한 클러스터
+	 * Manager Node
+	 * Worker Node
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MzE4Njg2NSwxNjk3ODY1OTc1LC00Nz
-UzNzUyOTIsODMxODU2MTIyLC0zMTEzNjc2ODIsLTE0NjU4MTY1
-NTEsLTExMjQ2MzE0NywxMDkxMjQ0MTIwLDc4NTMwNDY5NiwtOT
-Y5ODk4NDA2LDYwNDY4NTk1MiwtMTExOTk0MDkxNSwxMDE0MTMy
-NjQ3LDU2MjYxODE0N119
+eyJoaXN0b3J5IjpbLTE1NzYzMDQwMDgsMTY5Nzg2NTk3NSwtND
+c1Mzc1MjkyLDgzMTg1NjEyMiwtMzExMzY3NjgyLC0xNDY1ODE2
+NTUxLC0xMTI0NjMxNDcsMTA5MTI0NDEyMCw3ODUzMDQ2OTYsLT
+k2OTg5ODQwNiw2MDQ2ODU5NTIsLTExMTk5NDA5MTUsMTAxNDEz
+MjY0Nyw1NjI2MTgxNDddfQ==
 -->
