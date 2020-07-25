@@ -15,12 +15,15 @@
 *  Agent와 Controller
 
 
+## ETC
+docker run 할때 포트를 범위로 지정해서 바인딩 시킬수도 있다. -p 12001-12009:12001-12009
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg1MzA0Njk2LC05Njk4OTg0MDYsNjA0Nj
-g1OTUyLC0xMTE5OTQwOTE1LDEwMTQxMzI2NDcsNTYyNjE4MTQ3
-XX0=
+eyJoaXN0b3J5IjpbMTA5MTI0NDEyMCw3ODUzMDQ2OTYsLTk2OT
+g5ODQwNiw2MDQ2ODU5NTIsLTExMTk5NDA5MTUsMTAxNDEzMjY0
+Nyw1NjI2MTgxNDddfQ==
 -->
