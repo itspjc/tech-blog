@@ -23,12 +23,14 @@ docker run 할때 포트를 범위로 지정해서 바인딩 시킬수도 있다
 	* /var/lib/docker/volume
 	* 예를 들어, 나스 전체를 저기랑 바운딩을 시키면 전체를 그냥 쓸 수 있음
 * 컨테이너와 라이프 사이클이 같은 데이터들은 그냥 컨테이너에 저장하는게 나음. 관리가 훨씬 쉽다
-* 
+* 클라우드 프로바이더 볼륨 마운트
+	* 호스트의 데이터 영역도 망가졌을 경우에 유용
+	* Storage-Driver 를 이용해 네트워크로 연결된 장치에 저장 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjQ2MzE0NywxMDkxMjQ0MTIwLDc4NT
-MwNDY5NiwtOTY5ODk4NDA2LDYwNDY4NTk1MiwtMTExOTk0MDkx
-NSwxMDE0MTMyNjQ3LDU2MjYxODE0N119
+eyJoaXN0b3J5IjpbLTE0NjU4MTY1NTEsLTExMjQ2MzE0NywxMD
+kxMjQ0MTIwLDc4NTMwNDY5NiwtOTY5ODk4NDA2LDYwNDY4NTk1
+MiwtMTExOTk0MDkxNSwxMDE0MTMyNjQ3LDU2MjYxODE0N119
 -->
