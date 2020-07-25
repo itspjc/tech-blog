@@ -52,12 +52,14 @@ docker run 할때 포트를 범위로 지정해서 바인딩 시킬수도 있다
 * The best documents is Kubernetes official spec documentation.
 * Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications.
 
-
+### 가장 먼저 해야 할 일
+* k8s 클러스터 설치: 컨테이너 애플리케이션을 실행하는 노드 == 워커 노드의 집합.
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNDY2MTcyLC0xOTMxNjE1MTQ0LDgzMz
-UxNzczMCw5NDgzNzA1ODQsNzY1ODI3NDM4LC0xNTc2MzA0MDA4
-LDE2OTc4NjU5NzUsLTQ3NTM3NTI5Miw4MzE4NTYxMjIsLTMxMT
-M2NzY4MiwtMTQ2NTgxNjU1MSwtMTEyNDYzMTQ3LDEwOTEyNDQx
-MjAsNzg1MzA0Njk2LC05Njk4OTg0MDYsNjA0Njg1OTUyLC0xMT
-E5OTQwOTE1LDEwMTQxMzI2NDcsNTYyNjE4MTQ3XX0=
+eyJoaXN0b3J5IjpbLTIxMDA0MzQ5NDMsLTE5MzE2MTUxNDQsOD
+MzNTE3NzMwLDk0ODM3MDU4NCw3NjU4Mjc0MzgsLTE1NzYzMDQw
+MDgsMTY5Nzg2NTk3NSwtNDc1Mzc1MjkyLDgzMTg1NjEyMiwtMz
+ExMzY3NjgyLC0xNDY1ODE2NTUxLC0xMTI0NjMxNDcsMTA5MTI0
+NDEyMCw3ODUzMDQ2OTYsLTk2OTg5ODQwNiw2MDQ2ODU5NTIsLT
+ExMTk5NDA5MTUsMTAxNDEzMjY0Nyw1NjI2MTgxNDddfQ==
 -->
