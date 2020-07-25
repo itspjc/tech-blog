@@ -22,12 +22,13 @@ docker run 할때 포트를 범위로 지정해서 바인딩 시킬수도 있다
 * 호스트와 볼륨 바인딩을 하지 않으면 저장위치는 호스트 서버내 도커가 관리하는 영역
 	* /var/lib/docker/volume
 	* 예를 들어, 나스 전체를 저기랑 바운딩을 시키면 전체를 그냥 쓸 수 있음
-	* 
+* 컨테이너와 라이프 사이클이 같은 데이터들은 그냥 컨테이너에 저장하는게 나음. 관리가 훨씬 쉽다
+* 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MTMwMzgxOSwxMDkxMjQ0MTIwLDc4NT
+eyJoaXN0b3J5IjpbLTExMjQ2MzE0NywxMDkxMjQ0MTIwLDc4NT
 MwNDY5NiwtOTY5ODk4NDA2LDYwNDY4NTk1MiwtMTExOTk0MDkx
 NSwxMDE0MTMyNjQ3LDU2MjYxODE0N119
 -->
