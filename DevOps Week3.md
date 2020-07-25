@@ -19,12 +19,13 @@
 docker run 할때 포트를 범위로 지정해서 바인딩 시킬수도 있다. -p 12001-12009:12001-12009
 
 ## Volume 
-
+* 호스트와 볼륨 바인딩을 하지 않으면 저장위치는 호스트 서버내 도커가 관리하는 영역
+	* /var/lib/docker/volume
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5OTk0OTA4OCwxMDkxMjQ0MTIwLDc4NT
+eyJoaXN0b3J5IjpbMTg2NTUzMjI4NCwxMDkxMjQ0MTIwLDc4NT
 MwNDY5NiwtOTY5ODk4NDA2LDYwNDY4NTk1MiwtMTExOTk0MDkx
 NSwxMDE0MTMyNjQ3LDU2MjYxODE0N119
 -->
