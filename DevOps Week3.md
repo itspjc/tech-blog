@@ -6,12 +6,13 @@
 * buildkit 빌드
 	* 빌드를 반복하면서 docker-content 사이즈가 커져서 빌드 시간이 오래걸리는 이슈
 	* DOCKER_BUILDKIT 환경변수 추가
+	* `DOCKER_BUILDKIT=1`
 	* 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MTE2NjYxMSw2MDQ2ODU5NTIsLTExMT
+eyJoaXN0b3J5IjpbLTY4MjQ1NDIyOCw2MDQ2ODU5NTIsLTExMT
 k5NDA5MTUsMTAxNDEzMjY0Nyw1NjI2MTgxNDddfQ==
 -->
