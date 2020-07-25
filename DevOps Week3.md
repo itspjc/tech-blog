@@ -30,10 +30,13 @@ docker run 할때 포트를 범위로 지정해서 바인딩 시킬수도 있다
 
 
 ## Networking
-
+* docker0 가 bridge
+* bridge: 단일 호스트내에서 컨테이너를 연결해주는 네트워크
+* overlay: 멀티 호스트간에 연결해주는 네트워크
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTM2NzY4MiwtMTQ2NTgxNjU1MSwtMT
-EyNDYzMTQ3LDEwOTEyNDQxMjAsNzg1MzA0Njk2LC05Njk4OTg0
-MDYsNjA0Njg1OTUyLC0xMTE5OTQwOTE1LDEwMTQxMzI2NDcsNT
-YyNjE4MTQ3XX0=
+eyJoaXN0b3J5IjpbODMxODU2MTIyLC0zMTEzNjc2ODIsLTE0Nj
+U4MTY1NTEsLTExMjQ2MzE0NywxMDkxMjQ0MTIwLDc4NTMwNDY5
+NiwtOTY5ODk4NDA2LDYwNDY4NTk1MiwtMTExOTk0MDkxNSwxMD
+E0MTMyNjQ3LDU2MjYxODE0N119
 -->
