@@ -9,11 +9,18 @@
 	* `DOCKER_BUILDKIT=1`
 	* 
 
+## nGrinder
+* 서버에 대한 성능 테스트를 위한 오픈소스. 트래픽을 만들어서 쏘는 구조
+*  성능테스트를 위한 웹UI. 
+*  Agent와 Controller
+
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2OTg5ODQwNiw2MDQ2ODU5NTIsLTExMT
-k5NDA5MTUsMTAxNDEzMjY0Nyw1NjI2MTgxNDddfQ==
+eyJoaXN0b3J5IjpbNzg1MzA0Njk2LC05Njk4OTg0MDYsNjA0Nj
+g1OTUyLC0xMTE5OTQwOTE1LDEwMTQxMzI2NDcsNTYyNjE4MTQ3
+XX0=
 -->
