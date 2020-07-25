@@ -66,8 +66,12 @@ Pods는 늘어나거나 줄어들 수 있어, Pods로 가는 트래픽을 load b
 * Private IP: 외부에 서비스를 할 **필요가 없는 경우**
 * Public IP: 외부에 서비스를 노출할 필요가 있는 경우
 
+### kube-controller-manager
+* Deployment > ReplicaSet > Pod
+* Job, CronJob
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MjkyNjQ5MSwxNDM4MTQyMzg2LC0xMD
+eyJoaXN0b3J5IjpbLTcwMDEzMzQ0OCwxNDM4MTQyMzg2LC0xMD
 gxMDUyMjU0LC0yMTAwNDM0OTQzLC0xOTMxNjE1MTQ0LDgzMzUx
 NzczMCw5NDgzNzA1ODQsNzY1ODI3NDM4LC0xNTc2MzA0MDA4LD
 E2OTc4NjU5NzUsLTQ3NTM3NTI5Miw4MzE4NTYxMjIsLTMxMTM2
