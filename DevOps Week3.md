@@ -26,11 +26,14 @@ docker run 할때 포트를 범위로 지정해서 바인딩 시킬수도 있다
 * 클라우드 프로바이더 볼륨 마운트
 	* 호스트의 데이터 영역도 망가졌을 경우에 유용
 	* Storage-Driver 를 이용해 네트워크로 연결된 장치에 저장 
+* read-only  등으로도 생성 가능함
 
 
+## Networking
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjU4MTY1NTEsLTExMjQ2MzE0NywxMD
-kxMjQ0MTIwLDc4NTMwNDY5NiwtOTY5ODk4NDA2LDYwNDY4NTk1
-MiwtMTExOTk0MDkxNSwxMDE0MTMyNjQ3LDU2MjYxODE0N119
+eyJoaXN0b3J5IjpbLTMxMTM2NzY4MiwtMTQ2NTgxNjU1MSwtMT
+EyNDYzMTQ3LDEwOTEyNDQxMjAsNzg1MzA0Njk2LC05Njk4OTg0
+MDYsNjA0Njg1OTUyLC0xMTE5OTQwOTE1LDEwMTQxMzI2NDcsNT
+YyNjE4MTQ3XX0=
 -->
