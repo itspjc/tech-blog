@@ -36,8 +36,6 @@ docker run 할때 포트를 범위로 지정해서 바인딩 시킬수도 있다
 
 ### overlay network
 * 도커엔진은 overlay 네트워크 드라이버를 통해 멀티 호스트 네트워크 지원
-* ㅇㅇㅇㅇ
-* aaa
  
 ## Docker Swarm
  * Swarm Cluster: Swarm 을 이용해 구축한 클러스터
@@ -55,10 +53,10 @@ docker run 할때 포트를 범위로 지정해서 바인딩 시킬수도 있다
 * Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NzMzMDMzMyw4MzM1MTc3MzAsOTQ4Mz
-cwNTg0LDc2NTgyNzQzOCwtMTU3NjMwNDAwOCwxNjk3ODY1OTc1
-LC00NzUzNzUyOTIsODMxODU2MTIyLC0zMTEzNjc2ODIsLTE0Nj
-U4MTY1NTEsLTExMjQ2MzE0NywxMDkxMjQ0MTIwLDc4NTMwNDY5
-NiwtOTY5ODk4NDA2LDYwNDY4NTk1MiwtMTExOTk0MDkxNSwxMD
-E0MTMyNjQ3LDU2MjYxODE0N119
+eyJoaXN0b3J5IjpbLTE5MzE2MTUxNDQsODMzNTE3NzMwLDk0OD
+M3MDU4NCw3NjU4Mjc0MzgsLTE1NzYzMDQwMDgsMTY5Nzg2NTk3
+NSwtNDc1Mzc1MjkyLDgzMTg1NjEyMiwtMzExMzY3NjgyLC0xND
+Y1ODE2NTUxLC0xMTI0NjMxNDcsMTA5MTI0NDEyMCw3ODUzMDQ2
+OTYsLTk2OTg5ODQwNiw2MDQ2ODU5NTIsLTExMTk5NDA5MTUsMT
+AxNDEzMjY0Nyw1NjI2MTgxNDddfQ==
 -->
