@@ -59,12 +59,16 @@ docker run 할때 포트를 범위로 지정해서 바인딩 시킬수도 있다
 * 하나의 Pod는 여러개의 컨테이너를 가진다. (여러 타입의 컨테이너가 들어갈 수 있음)
 * Docker Swarm 은 하나의 Task에는 한 타입의 컨테이너만 들어갈 수 있음
 * 하나의 Pod은 한 호스트에 들어있는 것. 여러 호스트에 걸쳐있을 수 없다. (Pod 내에 있는 컨테이너끼리는 로컬콜)
+
+
+### Service
+Pods는 늘어나거나 줄어들 수 있어, Pods로 가는 트래픽을 load balancing 해줄 수 있어야 하는데, 그 역할을 Service가 수행함
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzODE0MjM4NiwtMTA4MTA1MjI1NCwtMj
-EwMDQzNDk0MywtMTkzMTYxNTE0NCw4MzM1MTc3MzAsOTQ4Mzcw
-NTg0LDc2NTgyNzQzOCwtMTU3NjMwNDAwOCwxNjk3ODY1OTc1LC
-00NzUzNzUyOTIsODMxODU2MTIyLC0zMTEzNjc2ODIsLTE0NjU4
-MTY1NTEsLTExMjQ2MzE0NywxMDkxMjQ0MTIwLDc4NTMwNDY5Ni
-wtOTY5ODk4NDA2LDYwNDY4NTk1MiwtMTExOTk0MDkxNSwxMDE0
-MTMyNjQ3XX0=
+eyJoaXN0b3J5IjpbMTIxMTkxMTg2MSwxNDM4MTQyMzg2LC0xMD
+gxMDUyMjU0LC0yMTAwNDM0OTQzLC0xOTMxNjE1MTQ0LDgzMzUx
+NzczMCw5NDgzNzA1ODQsNzY1ODI3NDM4LC0xNTc2MzA0MDA4LD
+E2OTc4NjU5NzUsLTQ3NTM3NTI5Miw4MzE4NTYxMjIsLTMxMTM2
+NzY4MiwtMTQ2NTgxNjU1MSwtMTEyNDYzMTQ3LDEwOTEyNDQxMj
+AsNzg1MzA0Njk2LC05Njk4OTg0MDYsNjA0Njg1OTUyLC0xMTE5
+OTQwOTE1XX0=
 -->
