@@ -47,9 +47,10 @@ docker run 할때 포트를 범위로 지정해서 바인딩 시킬수도 있다
 	 * `docker swarm join-token manager`
 	 * `docker swarm join-token worker`
  * Swarm Kit
- * 
+ * 도커만 가지고 클러스터를 구축할 수 있다는 매력을 가지고 있음. 다만 Kubernetes 보다는 정교하지 못하다.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMzNTc2ODY2LDk0ODM3MDU4NCw3NjU4Mj
+eyJoaXN0b3J5IjpbODMzNTE3NzMwLDk0ODM3MDU4NCw3NjU4Mj
 c0MzgsLTE1NzYzMDQwMDgsMTY5Nzg2NTk3NSwtNDc1Mzc1Mjky
 LDgzMTg1NjEyMiwtMzExMzY3NjgyLC0xNDY1ODE2NTUxLC0xMT
 I0NjMxNDcsMTA5MTI0NDEyMCw3ODUzMDQ2OTYsLTk2OTg5ODQw
