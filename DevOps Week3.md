@@ -51,12 +51,13 @@ docker run 할때 포트를 범위로 지정해서 바인딩 시킬수도 있다
 * Made by Google, Use to ochestrate docker containers.
 * The best documents is Kubernetes official spec documentation.
 * Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications.
-* 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzE2MTUxNDQsODMzNTE3NzMwLDk0OD
-M3MDU4NCw3NjU4Mjc0MzgsLTE1NzYzMDQwMDgsMTY5Nzg2NTk3
-NSwtNDc1Mzc1MjkyLDgzMTg1NjEyMiwtMzExMzY3NjgyLC0xND
-Y1ODE2NTUxLC0xMTI0NjMxNDcsMTA5MTI0NDEyMCw3ODUzMDQ2
-OTYsLTk2OTg5ODQwNiw2MDQ2ODU5NTIsLTExMTk5NDA5MTUsMT
-AxNDEzMjY0Nyw1NjI2MTgxNDddfQ==
+eyJoaXN0b3J5IjpbMTIyNDY2MTcyLC0xOTMxNjE1MTQ0LDgzMz
+UxNzczMCw5NDgzNzA1ODQsNzY1ODI3NDM4LC0xNTc2MzA0MDA4
+LDE2OTc4NjU5NzUsLTQ3NTM3NTI5Miw4MzE4NTYxMjIsLTMxMT
+M2NzY4MiwtMTQ2NTgxNjU1MSwtMTEyNDYzMTQ3LDEwOTEyNDQx
+MjAsNzg1MzA0Njk2LC05Njk4OTg0MDYsNjA0Njg1OTUyLC0xMT
+E5OTQwOTE1LDEwMTQxMzI2NDcsNTYyNjE4MTQ3XX0=
 -->
