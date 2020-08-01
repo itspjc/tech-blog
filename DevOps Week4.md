@@ -32,8 +32,10 @@ ELK를 이용한 로그분석 환경 구축
 * Redis 로 트래픽에 대비하여 중간 버퍼를 두는 것 (캐시 서버로도 씀)
 * ES -> kibana -> Redis 순으로 설치 (kibana 가 Elastic Search 를 바라봐야 함)
 * Redis는 보통 3배수로 띄움
+* 이거 우리 프론트에도 달아보면 되겠는데?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNjQ2MDAzNiwyMDkzNDE0NzE2LC05OD
-Q1ODQwNjYsMjEwMjY2NzU4MywtMTk1NDEzMzUyMCwxOTI1MzI2
-ODYwLC0xNTU0Njc0NzAsLTc1MTQ2NzMwMV19
+eyJoaXN0b3J5IjpbLTkwNTk1ODM0MywxNzI2NDYwMDM2LDIwOT
+M0MTQ3MTYsLTk4NDU4NDA2NiwyMTAyNjY3NTgzLC0xOTU0MTMz
+NTIwLDE5MjUzMjY4NjAsLTE1NTQ2NzQ3MCwtNzUxNDY3MzAxXX
+0=
 -->
