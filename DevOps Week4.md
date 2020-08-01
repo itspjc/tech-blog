@@ -17,7 +17,7 @@ kubectl set image deployment/hello-node hello-node=hello-node:v2
 	- api 로 특정 정도만 볼 수도 있다
 
 
-## Container Monitorg
+## Container Monitoring
 - **로그를 이벤트 스트림으로 취급하라**
 	- 로그파일로 관리하지 말고 stdout 으로 출력
 	- 로그파일은 앱이 아닌 실행환경으로 관리한다
@@ -26,9 +26,10 @@ kubectl set image deployment/hello-node hello-node=hello-node:v2
 - **frontail**
 	- 로그 스트림을 브라우저로 보여주는 노드 어플리케이션
 
-
+## Multi Host Monitoring
+ELK: `Elastic Search` + `Logstash` + `Kibana`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQxMTAzNDA0LC05ODQ1ODQwNjYsMjEwMj
-Y2NzU4MywtMTk1NDEzMzUyMCwxOTI1MzI2ODYwLC0xNTU0Njc0
-NzAsLTc1MTQ2NzMwMV19
+eyJoaXN0b3J5IjpbLTIwOTE0NzM2MTAsLTk4NDU4NDA2NiwyMT
+AyNjY3NTgzLC0xOTU0MTMzNTIwLDE5MjUzMjY4NjAsLTE1NTQ2
+NzQ3MCwtNzUxNDY3MzAxXX0=
 -->
