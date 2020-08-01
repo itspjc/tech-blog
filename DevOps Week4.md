@@ -53,16 +53,17 @@ ELK를 이용한 로그분석 환경 구축
 	* 운영 이슈
 		* DevOps
 	* 중복 이슈
-		* miniservices: multiple service domain sharing same data store
+		* miniservices: multiple services domain sharing same data store
+		* to build microservices, data store would be NO-SQL finally. 
 * BoundedText
 
 ## Tools
 * Build Kit: Fast Image Build
 * gocd : CI/CD Server Opensource
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUzOTAyODczLDE5MTUzODUyMjMsLTQ4Mz
-UxMDg3MSwyMTM4ODg2Mjk3LDE3OTUxOTg2ODUsLTg2ODEyNDU2
-LC05MDU5NTgzNDMsMTcyNjQ2MDAzNiwyMDkzNDE0NzE2LC05OD
-Q1ODQwNjYsMjEwMjY2NzU4MywtMTk1NDEzMzUyMCwxOTI1MzI2
-ODYwLC0xNTU0Njc0NzAsLTc1MTQ2NzMwMV19
+eyJoaXN0b3J5IjpbLTIwMzExODEzNzcsMTkxNTM4NTIyMywtND
+gzNTEwODcxLDIxMzg4ODYyOTcsMTc5NTE5ODY4NSwtODY4MTI0
+NTYsLTkwNTk1ODM0MywxNzI2NDYwMDM2LDIwOTM0MTQ3MTYsLT
+k4NDU4NDA2NiwyMTAyNjY3NTgzLC0xOTU0MTMzNTIwLDE5MjUz
+MjY4NjAsLTE1NTQ2NzQ3MCwtNzUxNDY3MzAxXX0=
 -->
