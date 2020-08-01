@@ -75,17 +75,17 @@ ELK를 이용한 로그분석 환경 구축
 System Administrator: 이제 없어져가고 있는 직업. DevOps 엔지니어로 전향하든가 그만두든가 하고 있다.  
 DevOps Engineer 가 각광받을듯. (인프라나 자동화에 관심이 많다면 강력하게 추천함)
 
-ㅋ
+코드리뷰: phabricator? 
 
 
 ## Tools
 * Build Kit: Fast Image Build
 * gocd : CI/CD Server Opensource
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNzE5NTM0NywxMTQ1NDc5NzkwLC03Mz
-I1NzQ2MTksNDk1ODA2NjM3LDcwMjcwNzA4OSwxOTE1Mzg1MjIz
-LC00ODM1MTA4NzEsMjEzODg4NjI5NywxNzk1MTk4Njg1LC04Nj
-gxMjQ1NiwtOTA1OTU4MzQzLDE3MjY0NjAwMzYsMjA5MzQxNDcx
-NiwtOTg0NTg0MDY2LDIxMDI2Njc1ODMsLTE5NTQxMzM1MjAsMT
-kyNTMyNjg2MCwtMTU1NDY3NDcwLC03NTE0NjczMDFdfQ==
+eyJoaXN0b3J5IjpbLTE5MDk1MDM4MDgsMTE0NTQ3OTc5MCwtNz
+MyNTc0NjE5LDQ5NTgwNjYzNyw3MDI3MDcwODksMTkxNTM4NTIy
+MywtNDgzNTEwODcxLDIxMzg4ODYyOTcsMTc5NTE5ODY4NSwtOD
+Y4MTI0NTYsLTkwNTk1ODM0MywxNzI2NDYwMDM2LDIwOTM0MTQ3
+MTYsLTk4NDU4NDA2NiwyMTAyNjY3NTgzLC0xOTU0MTMzNTIwLD
+E5MjUzMjY4NjAsLTE1NTQ2NzQ3MCwtNzUxNDY3MzAxXX0=
 -->
