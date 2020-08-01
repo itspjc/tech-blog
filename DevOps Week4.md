@@ -30,9 +30,10 @@ kubectl set image deployment/hello-node hello-node=hello-node:v2
 ELK를 이용한 로그분석 환경 구축  
 * `Elastic Search` + `Logstash` + `Kibana` + (`Redis`)
 * Redis 로 트래픽에 대비하여 중간 버퍼를 두는 것 (캐시 서버로도 씀)
-* 
+* ES -> kibana -> Redis 순으로 설치 (kibana 가 Elastic Search 를 바라봐야 함)
+* Redis는 보통 3배수로 띄움
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4ODM2OTM5NiwyMDkzNDE0NzE2LC05OD
+eyJoaXN0b3J5IjpbMTcyNjQ2MDAzNiwyMDkzNDE0NzE2LC05OD
 Q1ODQwNjYsMjEwMjY2NzU4MywtMTk1NDEzMzUyMCwxOTI1MzI2
 ODYwLC0xNTU0Njc0NzAsLTc1MTQ2NzMwMV19
 -->
