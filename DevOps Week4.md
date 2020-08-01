@@ -21,12 +21,13 @@ kubectl set image deployment/hello-node hello-node=hello-node:v2
 - **로그를 이벤트 스트림으로 취급하라**
 	- 로그파일로 관리하지 말고 stdout 으로 출력
 	- 로그파일은 앱이 아닌 실행환경으로 관리한다
-- docker logs, docker-compose logs 로 볼 수 있게 표준 출력으로 로그를 출력할 수 있게 어플리케이션을 구성할 것
-- frontail
-	- 로그 스트림을 브라우저로 보여주는 노드 어플
+	- docker logs, docker-compose logs 로 볼 수 있게 표준 출력으로 로그를 출력할 수 있게 어플리케이션을 구성할 것
+	- Docker 에 들어가서 보는 것은 비추천
+- **frontail**
+	- 로그 스트림을 브라우저로 보여주는 노드 어플리케이션
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA3NTUxNDg4LDIxMDI2Njc1ODMsLTE5NT
-QxMzM1MjAsMTkyNTMyNjg2MCwtMTU1NDY3NDcwLC03NTE0Njcz
-MDFdfQ==
+eyJoaXN0b3J5IjpbLTk4NDU4NDA2NiwyMTAyNjY3NTgzLC0xOT
+U0MTMzNTIwLDE5MjUzMjY4NjAsLTE1NTQ2NzQ3MCwtNzUxNDY3
+MzAxXX0=
 -->
