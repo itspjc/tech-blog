@@ -40,14 +40,21 @@ ELK를 이용한 로그분석 환경 구축
 * Docker Security Scanning: 이미지 보안 취약점을 스캔해서 알려줌 (현재는 유료)
 * Docker Bench: Open Source scanning service
 	* [https://github.com/docker/docker-bench-security](https://github.com/docker/docker-bench-security)
-* 
+
+## Micro Service 특징
+* 심플하며 개발 요구사항에 특화되어 있다
+* 개별 팀에서 독립적인 개발/배포가 가능 -> 그런 환경들이 마련되어야 특징을 잘 살릴 수 있다
+* 각각의 서비스는 다른 프로그래밍 언어, 개발 도구로 개발 가능
+* 문제점:
+	* 서비스 범위를 어떻게 설정? 얼마나 작아야, 어느정도 범위에서 나누어야 하는지
 
 ## Tools
 * Build Kit: Fast Image Build
 * gocd : CI/CD Server Opensource
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzODg4NjI5NywxNzk1MTk4Njg1LC04Nj
-gxMjQ1NiwtOTA1OTU4MzQzLDE3MjY0NjAwMzYsMjA5MzQxNDcx
-NiwtOTg0NTg0MDY2LDIxMDI2Njc1ODMsLTE5NTQxMzM1MjAsMT
-kyNTMyNjg2MCwtMTU1NDY3NDcwLC03NTE0NjczMDFdfQ==
+eyJoaXN0b3J5IjpbLTE1Njc2MzM4ODIsMjEzODg4NjI5NywxNz
+k1MTk4Njg1LC04NjgxMjQ1NiwtOTA1OTU4MzQzLDE3MjY0NjAw
+MzYsMjA5MzQxNDcxNiwtOTg0NTg0MDY2LDIxMDI2Njc1ODMsLT
+E5NTQxMzM1MjAsMTkyNTMyNjg2MCwtMTU1NDY3NDcwLC03NTE0
+NjczMDFdfQ==
 -->
