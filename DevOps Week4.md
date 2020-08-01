@@ -48,14 +48,15 @@ ELK를 이용한 로그분석 환경 구축
 * 문제점:
 	* 서비스 범위를 어떻게 설정? 얼마나 작아야, 어느정도 범위에서 나누어야 하는지
 	* Cloud Native ? 
+	* Domain 분석을 통해 할 수 밖에 없다. Domain Driven Design
 
 ## Tools
 * Build Kit: Fast Image Build
 * gocd : CI/CD Server Opensource
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NTkzNDQ0NywyMTM4ODg2Mjk3LDE3OT
-UxOTg2ODUsLTg2ODEyNDU2LC05MDU5NTgzNDMsMTcyNjQ2MDAz
-NiwyMDkzNDE0NzE2LC05ODQ1ODQwNjYsMjEwMjY2NzU4MywtMT
-k1NDEzMzUyMCwxOTI1MzI2ODYwLC0xNTU0Njc0NzAsLTc1MTQ2
-NzMwMV19
+eyJoaXN0b3J5IjpbLTExMzUzNTgwNDUsMjEzODg4NjI5NywxNz
+k1MTk4Njg1LC04NjgxMjQ1NiwtOTA1OTU4MzQzLDE3MjY0NjAw
+MzYsMjA5MzQxNDcxNiwtOTg0NTg0MDY2LDIxMDI2Njc1ODMsLT
+E5NTQxMzM1MjAsMTkyNTMyNjg2MCwtMTU1NDY3NDcwLC03NTE0
+NjczMDFdfQ==
 -->
