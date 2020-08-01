@@ -65,13 +65,17 @@ ELK를 이용한 로그분석 환경 구축
 	* GET /companies/3/employees
 * HTTP Method
 	* GET, POST, PUT, DELETE
-	*  
+* 가능한 따르려고 노력을 하나, 100% 만족하기는 어렵다...
+* Response code
+	* 2xx: success, 3xx: redirect, 4xx: client error, 5xx: server error
+* Versioning 
+	* api.com/v1/xxxx
 
 ## Tools
 * Build Kit: Fast Image Build
 * gocd : CI/CD Server Opensource
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNjQ5NjkwOCw0OTU4MDY2MzcsNzAyNz
+eyJoaXN0b3J5IjpbLTczMjU3NDYxOSw0OTU4MDY2MzcsNzAyNz
 A3MDg5LDE5MTUzODUyMjMsLTQ4MzUxMDg3MSwyMTM4ODg2Mjk3
 LDE3OTUxOTg2ODUsLTg2ODEyNDU2LC05MDU5NTgzNDMsMTcyNj
 Q2MDAzNiwyMDkzNDE0NzE2LC05ODQ1ODQwNjYsMjEwMjY2NzU4
