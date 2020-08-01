@@ -27,9 +27,10 @@ kubectl set image deployment/hello-node hello-node=hello-node:v2
 	- 로그 스트림을 브라우저로 보여주는 노드 어플리케이션
 
 ## Multi Host Monitoring
-ELK: `Elastic Search` + `Logstash` + `Kibana`
+ELK를 이용한 로그분석 환경 구축  
+`Elastic Search` + `Logstash` + `Kibana` + (`Redis`)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTE0NzM2MTAsLTk4NDU4NDA2NiwyMT
-AyNjY3NTgzLC0xOTU0MTMzNTIwLDE5MjUzMjY4NjAsLTE1NTQ2
-NzQ3MCwtNzUxNDY3MzAxXX0=
+eyJoaXN0b3J5IjpbLTU5ODU1MTMzMSwtOTg0NTg0MDY2LDIxMD
+I2Njc1ODMsLTE5NTQxMzM1MjAsMTkyNTMyNjg2MCwtMTU1NDY3
+NDcwLC03NTE0NjczMDFdfQ==
 -->
