@@ -33,9 +33,10 @@ ELK를 이용한 로그분석 환경 구축
 * ES -> kibana -> Redis 순으로 설치 (kibana 가 Elastic Search 를 바라봐야 함)
 * Redis는 보통 3배수로 띄움
 * 이거 우리 프론트에도 달아보면 되겠는데?
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNTk1ODM0MywxNzI2NDYwMDM2LDIwOT
-M0MTQ3MTYsLTk4NDU4NDA2NiwyMTAyNjY3NTgzLC0xOTU0MTMz
-NTIwLDE5MjUzMjY4NjAsLTE1NTQ2NzQ3MCwtNzUxNDY3MzAxXX
-0=
+eyJoaXN0b3J5IjpbMTAwNDUyOTAwOSwtOTA1OTU4MzQzLDE3Mj
+Y0NjAwMzYsMjA5MzQxNDcxNiwtOTg0NTg0MDY2LDIxMDI2Njc1
+ODMsLTE5NTQxMzM1MjAsMTkyNTMyNjg2MCwtMTU1NDY3NDcwLC
+03NTE0NjczMDFdfQ==
 -->
