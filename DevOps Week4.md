@@ -37,15 +37,16 @@ ELK를 이용한 로그분석 환경 구축
 
 ## Security
 * --privileged 명령어는 쓰지마라. 이거 쓰면 docker 명령어 거의 다 쓸 수 있음. (/var/run/docker.sock 볼륨마운트 하는거랑 비슷)
-* Docker Security Scanning: 이미지 보안 취약점을 스캔해서 알려줌
+* Docker Security Scanning: 이미지 보안 취약점을 스캔해서 알려줌 (현재는 유료)
+* Docker Bench: Open Source scanning service
 * 
 
 ## Tools
 * Build Kit: Fast Image Build
 * gocd : CI/CD Server Opensource
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NjEyMzUxNCwxNzk1MTk4Njg1LC04Nj
-gxMjQ1NiwtOTA1OTU4MzQzLDE3MjY0NjAwMzYsMjA5MzQxNDcx
-NiwtOTg0NTg0MDY2LDIxMDI2Njc1ODMsLTE5NTQxMzM1MjAsMT
-kyNTMyNjg2MCwtMTU1NDY3NDcwLC03NTE0NjczMDFdfQ==
+eyJoaXN0b3J5IjpbNzM2NTMzNzYwLDE3OTUxOTg2ODUsLTg2OD
+EyNDU2LC05MDU5NTgzNDMsMTcyNjQ2MDAzNiwyMDkzNDE0NzE2
+LC05ODQ1ODQwNjYsMjEwMjY2NzU4MywtMTk1NDEzMzUyMCwxOT
+I1MzI2ODYwLC0xNTU0Njc0NzAsLTc1MTQ2NzMwMV19
 -->
