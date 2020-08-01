@@ -10,8 +10,9 @@ kubectl set image deployment/hello-node hello-node=hello-node:v2
 ## Docker Host Monitoring
 - htop
 - glances
+	- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNTMyNjg2MCwtMTU1NDY3NDcwLC03NT
-E0NjczMDFdfQ==
+eyJoaXN0b3J5IjpbMjExNzU4NDU1OSwxOTI1MzI2ODYwLC0xNT
+U0Njc0NzAsLTc1MTQ2NzMwMV19
 -->
