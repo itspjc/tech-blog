@@ -49,17 +49,20 @@ ELK를 이용한 로그분석 환경 구축
 	* 서비스 범위를 어떻게 설정? 얼마나 작아야, 어느정도 범위에서 나누어야 하는지
 		* 용어의 문제 Cloud Native ? 
 		* Domain 분석을 통해 마이크로 서비스의 범위를 정하는 방법 밖에 없다. Domain Driven Design
-	* 레거시 시스템: Moby Project
-		* 
+	* 레거시 시스템: Moby Project (기존 시스템을 마이크로 서비스화 하기 위한 도커사의 프로젝트?)
+	* 운영 이슈
+		* DevOps
+	* 중복 이슈
+		* miniservices
 * BoundedText
 
 ## Tools
 * Build Kit: Fast Image Build
 * gocd : CI/CD Server Opensource
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzUxMDg3MSwyMTM4ODg2Mjk3LDE3OT
-UxOTg2ODUsLTg2ODEyNDU2LC05MDU5NTgzNDMsMTcyNjQ2MDAz
-NiwyMDkzNDE0NzE2LC05ODQ1ODQwNjYsMjEwMjY2NzU4MywtMT
-k1NDEzMzUyMCwxOTI1MzI2ODYwLC0xNTU0Njc0NzAsLTc1MTQ2
-NzMwMV19
+eyJoaXN0b3J5IjpbMTkxNTM4NTIyMywtNDgzNTEwODcxLDIxMz
+g4ODYyOTcsMTc5NTE5ODY4NSwtODY4MTI0NTYsLTkwNTk1ODM0
+MywxNzI2NDYwMDM2LDIwOTM0MTQ3MTYsLTk4NDU4NDA2NiwyMT
+AyNjY3NTgzLC0xOTU0MTMzNTIwLDE5MjUzMjY4NjAsLTE1NTQ2
+NzQ3MCwtNzUxNDY3MzAxXX0=
 -->
