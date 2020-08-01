@@ -71,14 +71,16 @@ ELK를 이용한 로그분석 환경 구축
 * Versioning 
 	* api.com/v1/xxxx
 
-
+## DevOps
+System Administrator: 이제 없어져가고 있는 직업. DevOps 엔지니어로 전향하든가 그만두든가 하고 있다.
+DevOps Engineer 가 각광받을듯
 
 
 ## Tools
 * Build Kit: Fast Image Build
 * gocd : CI/CD Server Opensource
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MDc1MTQ2MSwtNzMyNTc0NjE5LDQ5NT
+eyJoaXN0b3J5IjpbLTU2NzY0MTU3MiwtNzMyNTc0NjE5LDQ5NT
 gwNjYzNyw3MDI3MDcwODksMTkxNTM4NTIyMywtNDgzNTEwODcx
 LDIxMzg4ODYyOTcsMTc5NTE5ODY4NSwtODY4MTI0NTYsLTkwNT
 k1ODM0MywxNzI2NDYwMDM2LDIwOTM0MTQ3MTYsLTk4NDU4NDA2
