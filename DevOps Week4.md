@@ -60,13 +60,18 @@ ELK를 이용한 로그분석 환경 구축
 		* Actor Model : akka.io /JVM 에서 동작, 
 * BoundedText
 
-## RESTful API 
+## RESTful API
+* 리소스 단위로 표현이 가능해야함
+	* GET /companies/3/employees
+* HTTP Method
+	* GET, POST, PUT, DELETE
+	*  
 
 ## Tools
 * Build Kit: Fast Image Build
 * gocd : CI/CD Server Opensource
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxOTU0MzM1OCw0OTU4MDY2MzcsNzAyNz
+eyJoaXN0b3J5IjpbLTcxNjQ5NjkwOCw0OTU4MDY2MzcsNzAyNz
 A3MDg5LDE5MTUzODUyMjMsLTQ4MzUxMDg3MSwyMTM4ODg2Mjk3
 LDE3OTUxOTg2ODUsLTg2ODEyNDU2LC05MDU5NTgzNDMsMTcyNj
 Q2MDAzNiwyMDkzNDE0NzE2LC05ODQ1ODQwNjYsMjEwMjY2NzU4
