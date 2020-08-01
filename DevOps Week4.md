@@ -57,16 +57,17 @@ ELK를 이용한 로그분석 환경 구축
 		* to build microservices, data store would be NO-SQL finally.
 	* 복잡도
 	* 분산 이슈
-		* Actor Model 
+		* Actor Model : akka.io /JVM 에서 동작, 
 * BoundedText
 
 ## Tools
 * Build Kit: Fast Image Build
 * gocd : CI/CD Server Opensource
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAyNzA3MDg5LDE5MTUzODUyMjMsLTQ4Mz
-UxMDg3MSwyMTM4ODg2Mjk3LDE3OTUxOTg2ODUsLTg2ODEyNDU2
-LC05MDU5NTgzNDMsMTcyNjQ2MDAzNiwyMDkzNDE0NzE2LC05OD
-Q1ODQwNjYsMjEwMjY2NzU4MywtMTk1NDEzMzUyMCwxOTI1MzI2
-ODYwLC0xNTU0Njc0NzAsLTc1MTQ2NzMwMV19
+eyJoaXN0b3J5IjpbNDk1ODA2NjM3LDcwMjcwNzA4OSwxOTE1Mz
+g1MjIzLC00ODM1MTA4NzEsMjEzODg4NjI5NywxNzk1MTk4Njg1
+LC04NjgxMjQ1NiwtOTA1OTU4MzQzLDE3MjY0NjAwMzYsMjA5Mz
+QxNDcxNiwtOTg0NTg0MDY2LDIxMDI2Njc1ODMsLTE5NTQxMzM1
+MjAsMTkyNTMyNjg2MCwtMTU1NDY3NDcwLC03NTE0NjczMDFdfQ
+==
 -->
