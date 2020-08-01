@@ -53,16 +53,16 @@ ELK를 이용한 로그분석 환경 구축
 	* 운영 이슈
 		* DevOps
 	* 중복 이슈
-		* miniservices
+		* miniservices: multiple service domain sharing same data store
 * BoundedText
 
 ## Tools
 * Build Kit: Fast Image Build
 * gocd : CI/CD Server Opensource
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNTM4NTIyMywtNDgzNTEwODcxLDIxMz
-g4ODYyOTcsMTc5NTE5ODY4NSwtODY4MTI0NTYsLTkwNTk1ODM0
-MywxNzI2NDYwMDM2LDIwOTM0MTQ3MTYsLTk4NDU4NDA2NiwyMT
-AyNjY3NTgzLC0xOTU0MTMzNTIwLDE5MjUzMjY4NjAsLTE1NTQ2
-NzQ3MCwtNzUxNDY3MzAxXX0=
+eyJoaXN0b3J5IjpbMzUzOTAyODczLDE5MTUzODUyMjMsLTQ4Mz
+UxMDg3MSwyMTM4ODg2Mjk3LDE3OTUxOTg2ODUsLTg2ODEyNDU2
+LC05MDU5NTgzNDMsMTcyNjQ2MDAzNiwyMDkzNDE0NzE2LC05OD
+Q1ODQwNjYsMjEwMjY2NzU4MywtMTk1NDEzMzUyMCwxOTI1MzI2
+ODYwLC0xNTU0Njc0NzAsLTc1MTQ2NzMwMV19
 -->
