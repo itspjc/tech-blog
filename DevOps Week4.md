@@ -28,9 +28,10 @@ kubectl set image deployment/hello-node hello-node=hello-node:v2
 
 ## Multi Host Monitoring
 ELK를 이용한 로그분석 환경 구축  
-`Elastic Search` + `Logstash` + `Kibana` + (`Redis`)
+* `Elastic Search` + `Logstash` + `Kibana` + (`Redis`)
+* Redis 로 중간 버퍼를 두는 것
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODU1MTMzMSwtOTg0NTg0MDY2LDIxMD
+eyJoaXN0b3J5IjpbMTE0NzIyMjM1MCwtOTg0NTg0MDY2LDIxMD
 I2Njc1ODMsLTE5NTQxMzM1MjAsMTkyNTMyNjg2MCwtMTU1NDY3
 NDcwLC03NTE0NjczMDFdfQ==
 -->
