@@ -47,14 +47,15 @@ ELK를 이용한 로그분석 환경 구축
 * 각각의 서비스는 다른 프로그래밍 언어, 개발 도구로 개발 가능
 * 문제점:
 	* 서비스 범위를 어떻게 설정? 얼마나 작아야, 어느정도 범위에서 나누어야 하는지
+	* Cloud Native ? 
 
 ## Tools
 * Build Kit: Fast Image Build
 * gocd : CI/CD Server Opensource
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njc2MzM4ODIsMjEzODg4NjI5NywxNz
-k1MTk4Njg1LC04NjgxMjQ1NiwtOTA1OTU4MzQzLDE3MjY0NjAw
-MzYsMjA5MzQxNDcxNiwtOTg0NTg0MDY2LDIxMDI2Njc1ODMsLT
-E5NTQxMzM1MjAsMTkyNTMyNjg2MCwtMTU1NDY3NDcwLC03NTE0
-NjczMDFdfQ==
+eyJoaXN0b3J5IjpbMTQ5NTkzNDQ0NywyMTM4ODg2Mjk3LDE3OT
+UxOTg2ODUsLTg2ODEyNDU2LC05MDU5NTgzNDMsMTcyNjQ2MDAz
+NiwyMDkzNDE0NzE2LC05ODQ1ODQwNjYsMjEwMjY2NzU4MywtMT
+k1NDEzMzUyMCwxOTI1MzI2ODYwLC0xNTU0Njc0NzAsLTc1MTQ2
+NzMwMV19
 -->
