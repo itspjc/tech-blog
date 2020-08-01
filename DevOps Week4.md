@@ -3,9 +3,14 @@
 
 
 
+docker build -t hello-node:v2
+kubectl set image deployment/hello-node hello-node=hello-node:v2
+
+
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODgyMTQ1MDJdfQ==
+eyJoaXN0b3J5IjpbLTc1MTQ2NzMwMV19
 -->
