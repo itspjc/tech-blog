@@ -35,12 +35,14 @@ ELK를 이용한 로그분석 환경 구축
 * 이거 우리 프론트에도 달아보면 되겠는데?
 * [https://github.com/deviantony/docker-elk](https://github.com/deviantony/docker-elk)
 
+
+
 ## Tools
 * Build Kit: Fast Image Build
 * gocd : CI/CD Server Opensource
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NTE5ODY4NSwtODY4MTI0NTYsLTkwNT
-k1ODM0MywxNzI2NDYwMDM2LDIwOTM0MTQ3MTYsLTk4NDU4NDA2
-NiwyMTAyNjY3NTgzLC0xOTU0MTMzNTIwLDE5MjUzMjY4NjAsLT
-E1NTQ2NzQ3MCwtNzUxNDY3MzAxXX0=
+eyJoaXN0b3J5IjpbMTk4MTIyNDgzMywxNzk1MTk4Njg1LC04Nj
+gxMjQ1NiwtOTA1OTU4MzQzLDE3MjY0NjAwMzYsMjA5MzQxNDcx
+NiwtOTg0NTg0MDY2LDIxMDI2Njc1ODMsLTE5NTQxMzM1MjAsMT
+kyNTMyNjg2MCwtMTU1NDY3NDcwLC03NTE0NjczMDFdfQ==
 -->
