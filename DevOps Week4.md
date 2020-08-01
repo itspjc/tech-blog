@@ -34,9 +34,13 @@ ELK를 이용한 로그분석 환경 구축
 * Redis는 보통 3배수로 띄움
 * 이거 우리 프론트에도 달아보면 되겠는데?
 * [https://github.com/deviantony/docker-elk](https://github.com/deviantony/docker-elk)
+
+## Tools
+* Build Kit: Fast Image Build
+* gocd : CI/CD Server Opensource
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2ODEyNDU2LC05MDU5NTgzNDMsMTcyNj
-Q2MDAzNiwyMDkzNDE0NzE2LC05ODQ1ODQwNjYsMjEwMjY2NzU4
-MywtMTk1NDEzMzUyMCwxOTI1MzI2ODYwLC0xNTU0Njc0NzAsLT
-c1MTQ2NzMwMV19
+eyJoaXN0b3J5IjpbMTc5NTE5ODY4NSwtODY4MTI0NTYsLTkwNT
+k1ODM0MywxNzI2NDYwMDM2LDIwOTM0MTQ3MTYsLTk4NDU4NDA2
+NiwyMTAyNjY3NTgzLC0xOTU0MTMzNTIwLDE5MjUzMjY4NjAsLT
+E1NTQ2NzQ3MCwtNzUxNDY3MzAxXX0=
 -->
