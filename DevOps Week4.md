@@ -26,8 +26,9 @@ kubectl set image deployment/hello-node hello-node=hello-node:v2
 - **frontail**
 	- 로그 스트림을 브라우저로 보여주는 노드 어플리케이션
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NDU4NDA2NiwyMTAyNjY3NTgzLC0xOT
-U0MTMzNTIwLDE5MjUzMjY4NjAsLTE1NTQ2NzQ3MCwtNzUxNDY3
-MzAxXX0=
+eyJoaXN0b3J5IjpbNzQxMTAzNDA0LC05ODQ1ODQwNjYsMjEwMj
+Y2NzU4MywtMTk1NDEzMzUyMCwxOTI1MzI2ODYwLC0xNTU0Njc0
+NzAsLTc1MTQ2NzMwMV19
 -->
